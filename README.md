@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning C++ / Lua / Nvim
+- 📫 How to reach me: work@hoohan.cn
+
+I write sometimes. Mostly about Tech and Personal Interests/Hobbies at [Hoohan's Digital Garden](https://hoohan.cn)(Chinese).
